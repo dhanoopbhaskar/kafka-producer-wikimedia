@@ -1,5 +1,6 @@
 # kafka-producer-wikimedia
-To learn Kafka
+
+Related repository - [kafka-consumer-opensearch](https://github.com/dhanoopbhaskar/kafka-consumer-opensearch)
 
 ## Start Zookeeper
     zookeeper-server-start /usr/local/etc/kafka/zookeeper.properties
