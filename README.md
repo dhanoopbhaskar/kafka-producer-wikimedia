@@ -19,5 +19,5 @@ if installed using brew,
 ## Create a topic
     kafka-topics --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 1 --topic wikimedia.recentChanges
 
-### Read from the topic
+## Read from the topic
     kafka-console-consumer --bootstrap-server localhost:9092 --topic wikimedia.recentChanges
